@@ -1,7 +1,3 @@
 # 信息发布与交流
-
-Telegram 频道：[https://telegram.me/glzjinmodnews](https://telegram.me/glzjinmodnews)
-
-Telegram 群：[https://telegram.me/glzjinmod](https://telegram.me/glzjinmod)
-
-仅供交流，有问题还是请发issue。
+1.本项目为Paperplane站使用，基于[esdeathlove/ss-panel-v3-mod](https://github.com/esdeathlove/ss-panel-v3-mod)。
+2.问题和交流请到原项目。
