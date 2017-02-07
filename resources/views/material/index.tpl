@@ -24,7 +24,7 @@
 								<div class="card">
 									<div class="card-main">
 										<div class="card-inner">
-											<p>请问您今天要来点兔子吗？</p>
+											<p>你好！欢迎来到Paperplane！</p>
 										</div>
 									</div>
 								</div>
@@ -42,7 +42,7 @@
 										</div>
 										<div class="card-action">
 											<div class="card-action-btn pull-left">
-												<a class="btn btn-flat waves-attach waves-light waves-effect" href="/user"><span class="icon">airline_seat_recline_normal</span>&nbsp;进入</a>
+												<a class="btn btn-flat waves-attach waves-light waves-effect" href="/user"><span class="icon">input</span>&nbsp;进入</a>
 											</div>
 										</div>
 									</div>
@@ -60,7 +60,7 @@
 										</div>
 										<div class="card-action">
 											<div class="card-action-btn pull-left">
-												<a class="btn btn-flat waves-attach waves-light waves-effect" href="/auth/register"><span class="icon">pregnant_woman</span>&nbsp;注册</a>
+												<a class="btn btn-flat waves-attach waves-light waves-effect" href="/auth/register"><span class="icon">launch</span>&nbsp;注册</a>
 											</div>
 										</div>
 									</div>
@@ -73,12 +73,12 @@
 										<div class="card-inner">
 											<p class="card-heading">登录</p>
 											<p>
-												有账户了？点击登录。
+												已经有账户了？点击登录。
 											</p>
 										</div>
 										<div class="card-action">
 											<div class="card-action-btn pull-left">
-												<a class="btn btn-flat waves-attach waves-light waves-effect" href="/auth/login"><span class="icon">vpn_key</span>&nbsp;登录</a>
+												<a class="btn btn-flat waves-attach waves-light waves-effect" href="/auth/login"><span class="icon">account_box</span>&nbsp;登录</a>
 											</div>
 										</div>
 									</div>
