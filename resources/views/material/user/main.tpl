@@ -12,7 +12,7 @@
 	<!-- css -->
 	<link href="/theme/material/css/base.min.css" rel="stylesheet">
 	<link href="/theme/material/css/project.min.css" rel="stylesheet">
-	<link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link href="//fonts.lug.ustc.edu.cn/icon?family=Material+Icons" rel="stylesheet">
 	
 
 	
@@ -255,7 +255,7 @@
 							
 							<li>
 								<a href="/user/edit">
-									<i class="icon icon-lg">sync_problem</i>&nbsp;资料编辑
+									<i class="icon icon-lg">build</i>&nbsp;资料编辑
 								</a>
 							</li>
 							
@@ -267,7 +267,7 @@
 							
 							<li>
 								<a href="/user/announcement">
-									<i class="icon icon-lg">announcement</i>&nbsp;查看公告
+								 <i class="icon icon-lg">announcement</i>&nbsp;公告
 								</a>
 							</li>
 							
@@ -288,7 +288,7 @@
 						<ul class="menu-collapse collapse in" id="ui_menu_use">
 							<li>
 								<a href="/user/node">
-									<i class="icon icon-lg">router</i>&nbsp;节点列表
+									<i class="icon icon-lg">cloud_circle</i>&nbsp;节点列表
 								</a>
 							</li>
 							
@@ -352,7 +352,7 @@
 
 							<li>
 								<a href="/user/code">
-									<i class="icon icon-lg">code</i>&nbsp;充值
+									<i class="icon icon-lg">monetization_on</i>&nbsp;充值
 								</a>
 							</li>
 						</ul>
